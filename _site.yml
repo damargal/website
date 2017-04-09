@@ -4,14 +4,15 @@ navbar:
   left:
     - text: "Research interests"
       href: research_interests.html
-    - text: "Pubications"
-      href: basic_workflow.html
-    - text: "Contact"
-      href: getting_sophisticated.html
+    #- text: "Pubications"
+    #  href: basic_workflow.html
+    #- text: "Contact"
+    #  href: getting_sophisticated.html
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: "yeti"
+#http://rmarkdown.rstudio.com/html_document_format.html#Appearance and Style
     highlight: textmate
 #    include:
 #      after_body: _footer.html
