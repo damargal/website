@@ -1,0 +1,25 @@
+---
+title: "Publications"
+#author: "David Martín-Gálvez"
+#date: "10/04/2017"
+output: html_document
+---
+<br>
+_under construction_
+<br>
+<center>**2017**</center>
+<br>
+<center>**2016**</center>
+<br>
+<center>**2015**</center>
+<br>
+<center>**2014**</center>
+<br>
+<center>**2013**</center>
+<br>
+<center>**2012**</center>
+<br>
+<center>**2011**</center>
+<br>
+<center>**2010**</center>
+<br>

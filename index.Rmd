@@ -1,24 +1,55 @@
 ---
-title: "Personal website"
-author:  "[David Martin-Galvez](https://github.com/damargal)"
-date: "Sunday 9 April"
+#title: "Personal Website"
+#author: "David Martín-Gálvez"  
+#date: "Sunday 9 April"
 output:
   html_document:
     fig_width: 1
 ---
 ***
-I am a Doctor in Biology with post-doctoral research experience in Evolutionary biology, Behavioral ecology and more recently in Genomics. 
+<!-- presentacion profesional -->
+<!-- nombre -->
+<!-- formacion -->
+<!-- lineas de investigacion -->
+<!-- donde he estado y donde estoy actualmente -->
+
+My name is David Martín-Gálvez, I am a Biologist with research experience in Behavioral Ecology and more recently in Genomics. 
 <br>
 <br>
-Currently, I am work at the [European Bioinformatics Institute](http://www.ebi.ac.uk) as postdoctoral fellow in the [Paul Flicek research group](http://www.ebi.ac.uk/research/flicek).
+Currently, I have a postdoctoral fellowship at the [European Bioinformatics Institute](http://www.ebi.ac.uk), in the [Paul Flicek's research group](http://www.ebi.ac.uk/research/flicek). 
+<br>
+<br>
+Previously, I worked at the [Experimental Station of Arid Zones](http://www.eeza.csic.es/en/default.aspx), at the [University of Sheffield](http://www.sheffield.ac.uk) and at the [University of Granada](https://www.ugr.es/en). 
+
+<!-- I have interest in *** -->
+
+<!-- presentacion personal -->
+<!-- que me gusta -->
+<!-- I am a big fan of ... -->
+<!-- hobbies -->
+<!-- que no me gusta -->
+<!-- todo -->
+  
+<br>
 
 ***
+<div align="right">
+<font size="1">This webiste has been made thanks to this [tutorial](www.google.com)</font>
+</right>
+</div align="right">
+
+
+
+
+
+
+
 
 <!-- It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations. -->
 
-<!-- ***Creating websites with R Markdown can be done without knowing R or HTML, CSS, etc,*** and that's where we'll start. However, R Markdown integrates with these tools so the more you know the more complex and beautiful your website can be. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout.  -->
+<!-- ***Creating websites with R Markdown can be done without knowing R or HTML, CSS, etc,*** and that's where we'll start. However, R Markdown integrates with these tools so the more you know the more complex and beautiful your website can be. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout. -->
 
-<!-- The best way to learn is to follow along with your own laptop, but all are welcome. We'll spend half the time with the tutorial and half the time for you to work on your own website and get help. If you bring your laptop please do this beforehand:  -->
+<!-- The best way to learn is to follow along with your own laptop, but all are welcome. We'll spend half the time with the tutorial and half the time for you to work on your own website and get help. If you bring your laptop please do this beforehand: -->
 
 <!-- 1. install [RStudio](https://www.rstudio.com/products/rstudio/download/) -->
 <!-- 1. create a [GitHub]((http://github.com)) account ([advice](http://happygitwithr.com/github-acct.html)) -->

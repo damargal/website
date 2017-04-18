@@ -4,10 +4,12 @@ navbar:
   left:
     - text: "Research interests"
       href: research_interests.html
-    #- text: "Pubications"
-    #  href: basic_workflow.html
-    #- text: "Contact"
-    #  href: getting_sophisticated.html
+    - text: "Research"
+      href: research.html
+    - text: "Pubications"
+      href: publications.html
+    - text: "Contact"
+      href: contact.html
 output_dir: "."
 output:
   html_document:
