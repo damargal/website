@@ -7,11 +7,11 @@ output:
     fig_width: 1
 ---
 ***
-<!-- presentacion profesional -->
-<!-- nombre -->
-<!-- formacion -->
-<!-- lineas de investigacion -->
-<!-- donde he estado y donde estoy actualmente -->
+
+<!-- my face -->
+<!-- <div align="center"><img src="images/my_face.JPG" width="250px"></div> -->
+
+<br>
 
 My name is David Martín-Gálvez, I am a Biologist with research experience in Behavioral Ecology and more recently in Genomics. 
 <br>
@@ -22,7 +22,8 @@ Currently, I have a postdoctoral fellowship at the [European Bioinformatics Inst
 Previously, I worked at the [Experimental Station of Arid Zones](http://www.eeza.csic.es/en/default.aspx), at the [University of Sheffield](http://www.sheffield.ac.uk) and at the [University of Granada](https://www.ugr.es/en). 
 
 <!-- I have interest in *** -->
-
+<!-- formacion -->
+<!-- lineas de investigacion -->
 <!-- presentacion personal -->
 <!-- que me gusta -->
 <!-- I am a big fan of ... -->
@@ -33,10 +34,10 @@ Previously, I worked at the [Experimental Station of Arid Zones](http://www.eeza
 <br>
 
 ***
-<div align="right">
-<font size="1">This webiste has been made thanks to this [tutorial](www.google.com)</font>
-</right>
-</div align="right">
+<!-- <div align="right"> -->
+<!-- <font size="1">This webiste has been made thanks to this [tutorial](www.google.com)</font> -->
+<!-- </right> -->
+<!-- </div align="right"> -->
 
 
 

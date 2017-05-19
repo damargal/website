@@ -16,5 +16,5 @@ output:
     theme: "yeti"
 #http://rmarkdown.rstudio.com/html_document_format.html#Appearance and Style
     highlight: textmate
-#    include:
-#      after_body: _footer.html
+    include:
+      after_body: _footer.html
